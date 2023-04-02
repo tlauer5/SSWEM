@@ -1,0 +1,16 @@
+{
+  "version": "2.0.1",
+  "summary": {
+    "title": "Impfportal Threat model",
+    "owner": "Tim and Alex",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
